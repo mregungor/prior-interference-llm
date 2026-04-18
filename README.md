@@ -1,2 +1,2 @@
 # prior-interference-llm
-Prior interference in LLMs: 41-model benchmark with three constructed languages. Companion repo for the "Beyond the Chinese Room" paper.
+Prior interference in LLMs: 41-model benchmark with three constructed languages. Companion repo for paper.
